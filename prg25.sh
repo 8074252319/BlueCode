@@ -1,6 +1,6 @@
 #!/bin/bash
 #Demonstrate string comparisons in bash shell
-#Program to check if given two strings are same or equal
+#Program to check if given two strings are same or equal blue
 echo "Enter the string1:"
 read str1
 echo "Enter the string2:"
