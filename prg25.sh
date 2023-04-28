@@ -16,5 +16,5 @@ if [ $str1 != $str2 ]
 then
  echo "They are not equal"
 fi
-
+echo "They are not equal
 #End of the program
